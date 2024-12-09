@@ -269,15 +269,6 @@ body {
   margin-right: 10px;
 }
 
-#footer {
-  position: absolute;
-  bottom: -10px;
-  width: 100%;
-  text-align: center;
-  font-size: 0.8em;
-  color: #ff66b2;
-}
-
 .slide-in {
   animation: slide-in-animation 1s ease-out forwards;
 }
